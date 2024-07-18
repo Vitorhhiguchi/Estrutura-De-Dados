@@ -3,6 +3,8 @@ Perfonamnce:
 Melhor caso: n(N)
 Pior caso: o(n^2). Pois tem dois for
 Não é bom para GRANDEs conjuntos de dados
+
+O espaço auxiliar na memoria é O(1)
 */
 #include <stdio.h>
 
